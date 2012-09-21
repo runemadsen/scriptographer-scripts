@@ -3,7 +3,7 @@ you can set them to specific values if you want to.
 ________________________________________________________________ */
 
 // if true it draws a circle, if false it draws a triangle
-var drawACircle = false;//decide();
+var drawACircle = decide();
 
 // controls thickness of the line in pixels.
 var strokeThickness = random(3, 50);
