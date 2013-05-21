@@ -1,4 +1,4 @@
-/* These are the things to play around with. Right now they are very random, but 
+/* These are the things to play around with. Right now they are random, but 
 you can set them to specific values if you want to.
 ________________________________________________________________ */
 
